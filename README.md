@@ -8,7 +8,7 @@ I've found passion in coding and software development as my career.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [oumaphilip01@gmail.com](mailto:oumaphilip01@gmail.com)
-* 🧠  I'm learning python language
+* 🧠  I'm learning Golang language
 * 🤝  I'm open to collaborating on small projects
 * ⚡  I'm a gamer
 
