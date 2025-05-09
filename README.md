@@ -6,7 +6,7 @@ Web developer and Software engineer
 
 I've found passion in coding and software development as my career.
 
-* 🌍  I'm based in Nairobi, Kenya
+* 🌍  I'm based in Kisumu, Kenya
 * ✉️  You can contact me at [oumaphilip01@gmail.com](mailto:oumaphilip01@gmail.com)
 * 🧠  I'm learning Golang language
 * 🤝  I'm open to collaborating on small projects
